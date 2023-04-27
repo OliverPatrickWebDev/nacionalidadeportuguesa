@@ -1,0 +1,16 @@
+/* Core */
+
+@import url(./reset.css);
+@import url(./config.css);
+@import url(./global.css);
+
+/* Components */
+
+@import url(./components/container.css);
+@import url(./components/button.css);
+@import url(./components/header.css);
+@import url(./components/form.css);
+@import url(./components/benefits.css);
+@import url(./components/about.css);
+@import url(./components/contact.css);
+@import url(./components/footer.css);

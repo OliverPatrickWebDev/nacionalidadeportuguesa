@@ -1,0 +1,33 @@
+#benefits {
+    width: 100%;
+    height: 70vh;
+    background-color: var(--medium);
+    background-image: url(../../assets/passport.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 85vh;
+    display: flex;
+}
+
+.container-benefits {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-benefits h2 {
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 1em;
+}
+
+.container-benefits p {
+    color: var(--text-secondary);
+    text-align: center;
+    font-size: 1em;
+}

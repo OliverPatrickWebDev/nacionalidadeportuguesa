@@ -1,0 +1,16 @@
+#copyright {
+    width: 100%;
+    height: 5vh;
+    background-color: var(--dark);
+    background-position: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer h6 {
+    color: var(--text-primary);
+}
